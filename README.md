@@ -17,7 +17,7 @@ Documentation and Submission: Submitted .pkt file simulations with flow diagrams
 Neha Shukla - @shuklaneha.vst1363@gmail.com
 ## 🚀 About Me
 Hi there! 👋 I'm Neha Shukla
-I’m a Computer Science and Information Technology student with a passion for solving real-world problems through code and innovative thinking. I enjoy working on projects that span from AI and machine learning to cloud computing and full-stack development, always striving to build scalable and impactful solutions.
+I’m a Computer Science and Information Technology student passionate about solving real-world problems through code and innovative thinking. I enjoy working on projects ranging from AI and machine learning to cloud computing and full-stack development, always striving to build scalable and impactful solutions.
 
 🌟 Core Competencies:
 
@@ -25,23 +25,8 @@ Skilled in Java, Python, and SQL, with experience in Spring Boot, Hibernate, and
 Proficient in cloud platforms like AWS, Google Cloud, and IBM Cloud, with hands-on knowledge in DevOps tools including Git, CI/CD, and Docker.
 Enthusiastic about AI and data-driven applications, utilizing frameworks like PyTorch and FastAPI.
 
-📜 Certifications:
-AWS Certified Solutions Architect - Associate
-Java Full Stack Training by Wipro
-Artificial Intelligence Builder by FITT, IIT Delhi
-Oracle Cloud Infrastructure Generative AI Certified Professional
 
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-shukla13)
 
-
-
-## 🛠 Skills
-Languages Java, Python, SQL
-Frontend Development HTML, CSS, React, JavaScript
-Backend Development Spring, Spring Boot, Hibernate
-Frameworks PyTorch, FastAPI, Bootstrap
-Cloud Platforms AWS, Google Cloud, IBM Cloud
-DevOps Git, GitHub, CI/CD Pipeline, Docker
-Databases MySQL, Firebase

@@ -17,7 +17,7 @@ Documentation and Submission: Submitted .pkt file simulations with flow diagrams
 Neha Shukla - @shuklaneha.vst1363@gmail.com
 ## 🚀 About Me
 Hi there! 👋 I'm Neha Shukla
-I’m a Computer Science and Information Technology student passionate about solving real-world problems through code and innovative thinking. I enjoy working on projects ranging from AI and machine learning to cloud computing and full-stack development, always striving to build scalable and impactful solutions.
+I’m a Computer Science undergread passionate about solving real-world problems through code and innovative thinking. I enjoy working on projects ranging from AI and machine learning to cloud computing and full-stack development, always striving to build scalable and impactful solutions.
 
 🌟 Core Competencies:
 
